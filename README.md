@@ -8,8 +8,8 @@ Paso 3:
 Crear un entorno virtual => $ python -m venv nombre_entorno
 
 Paso 4:
-Activar el entorno virtual 
-En windows => $ source nombre_entorno/Scripts/activate 
+Activar el entorno virtual <br>
+En windows => $ source nombre_entorno/Scripts/activate <br>
 En linux => $ source nombre_entorno/bin/activate
 
 Paso 5:
